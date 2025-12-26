@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+f<!DOCTYPE html>
 <html class="loading">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -885,11 +885,11 @@
 
                                     <option
                                         style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/usd1CCN.php">SK CCN Charged : $1</option>
+                                        value="gate/usd1CCN.php">SK CCN Charged : $4</option>
 
                                     <option
                                         style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/usd1CVV.php">SK CVV Charged : $1</option>
+                                        value="gate/usd1CVV.php">SK CVV Charged : $4</option>
 
                                 </select>
                                 <br>
